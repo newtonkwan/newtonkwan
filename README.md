@@ -5,6 +5,9 @@ Looking to connect? Reach out via [email](mailto:newtonkwan@gmail.com).
 If you like what I do, consider buying me a coffee 😄
 
 <a href="https://buymeacoffee.com/newtonkwan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<!--![Visitor Count](https://profile-counter.glitch.me/newtonkwan/count.svg)
+-->
 <!--
 **newtonkwan/newtonkwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
